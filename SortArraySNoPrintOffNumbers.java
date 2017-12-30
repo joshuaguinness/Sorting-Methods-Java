@@ -332,9 +332,8 @@ public class SortArraySNoPrintOffNumbers {
         double elapsedSeconds = tDelta / 1000.0;
         
         // Prints out the final array
-        
         System.out.print("\nSorted array: ");
-        //print(array);
+        print(array);
         
         System.out.println("It sorted in " + elapsedSeconds + " seconds");
 
