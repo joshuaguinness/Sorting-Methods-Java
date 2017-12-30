@@ -333,7 +333,7 @@ public class SortArraySNoPrintOffNumbers {
         
         // Prints out the final array
         System.out.print("\nSorted array: ");
-        print(array);
+        //print(array);
         
         System.out.println("It sorted in " + elapsedSeconds + " seconds");
 
